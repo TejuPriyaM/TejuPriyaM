@@ -7,8 +7,7 @@
   
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F765EE&center=true&multiline=true&width=450&lines=Decoding+Data%2C+Envisioning+AI's+Future+;and+Navigating+the+Cloud+Landscape)
 </div>
-<p align="center" ><img height="300" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/></p>
-
+<img align="right" alt="GIF" src="code.gif" width="280" height="250" />
 - 👀 Passionate about **Gen AI**, **Cloud**, **Data Analysis**, **kubernetes** **AWS** and **GCP**
 - 🌱 Currently exploring **Gen AI** and **Cloud** technologies
 - 💡 Driven by curiosity, always up for learning, building, and collaborating on meaningful projects
