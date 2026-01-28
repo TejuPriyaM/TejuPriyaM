@@ -24,9 +24,9 @@
 
 <h1> 📊 GitHub Stats: </h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KRUTHIKTR&show_icons=true&theme=dark)
-![](https://nirzak-streak-stats.vercel.app/?user=KRUTHIKTR&theme=dark&hide_border=false)<br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kruthiktr&show_icons=true&locale=en&layout=compact&theme=dark" alt="kruthiktr" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TejuPriyaM&show_icons=true&theme=dark)
+![](https://nirzak-streak-stats.vercel.app/?user=TejuPriyaM&theme=dark&hide_border=false)<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TejuPriyaM&show_icons=true&locale=en&layout=compact&theme=dark" alt="TejuPriyaM" /></p>
 <br><br><br><br><br><br>
 
 <!-- Quotes:START -->
@@ -35,24 +35,17 @@
 
 <h1>🌐🔗Connect with me:</h1>
 
-<a href="https://github.com/KRUTHIKTR" target="_blank">
+<a href="https://github.com/TejuPriyaM" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/kruthiktr" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/kruthiktr" target="_blank">
+
+<a href="https://linkedin.com/in/tejupriyam" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/@kruthiktrgowda" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-<a href="mailto:kruthiktrgowda24@gmail.com" target="_blank">
+
+<a href="mailto:tejupriyam@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="gmail logo"  />
 </a>
-<a href="https://www.hackerrank.com/profile/kruthiktr" target="_blank">
+<a href="https://www.hackerrank.com/profile/tejupriyam26" target="_blank">
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="hackerrank logo"  />
-</a>
-<a href="https://linktr.ee/kruthik_tr" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linktree logo"  />
 </a>
